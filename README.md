@@ -57,7 +57,6 @@ By the end of this tutorial, you will have gained a solid understanding of how t
 You need to create a connection with your on MySQL databae and add data.
 
 
-#### 🛠 Tecnologias | Tecnologias
 #### The following tools were used in building the project
 
 - [Axios](https://axios-http.com/)
